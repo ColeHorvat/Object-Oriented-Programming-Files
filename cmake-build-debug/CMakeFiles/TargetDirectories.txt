@@ -1,0 +1,3 @@
+/home/colehorvat/COMP_3141 Files/cmake-build-debug/CMakeFiles/COMP_3141_Files.dir
+/home/colehorvat/COMP_3141 Files/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/colehorvat/COMP_3141 Files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
