@@ -8,7 +8,7 @@ template <class type> type subtract(type num1, type num2); // template definitio
 
 int main ()
 {
-  float num1, num2, answer;
+  int num1, num2, answer;
   // test by changing float to int or double. Do you have any other change in the program?
   cout << "Please enter integer 1 : ";
   cin >> num1;

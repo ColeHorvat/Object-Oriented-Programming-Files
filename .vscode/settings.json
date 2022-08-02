@@ -3,5 +3,6 @@
         "string_view": "cpp",
         "iomanip": "cpp",
         "ostream": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
 }
